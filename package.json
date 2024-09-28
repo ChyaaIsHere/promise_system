@@ -4,7 +4,7 @@
   "main": "conditions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-to-read": "node conditions.js"
+    "jalankanCode": "node condition.js"
   },
   "author": "Rivaldo",
   "license": "ISC",
